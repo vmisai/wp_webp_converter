@@ -1,9 +1,15 @@
 === WebP Auto Processor & Resizer ===
+
 Contributors: vmisai
+
 Tags: webp, image optimization, resize, conversion, performance
+
 Requires at least: 5.0
+
 Tested up to: 6.9
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Automatically converts uploaded images to WebP format, resizes large dimensions, and applies high-quality compression to boost site performance.
